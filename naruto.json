@@ -1,0 +1,25 @@
+{
+    "naruto": {
+      "epi1": {
+        "episodio": "01",
+        "nome": "Naruto Clássico",
+        "img_card": "https://i.ibb.co/NmMjtQP/naruto-ep1.png",
+        "link": "https://drive.google.com/u/0/uc?id=1POOUES9B6HlxuvB49RLVEKcIkqW7cSP9",
+        "release_date": ""
+      },
+      "epi2": {
+        "episodio": "01",
+        "nome": "Naruto Clássico",
+        "img_card": "https://i.ibb.co/NmMjtQP/naruto-ep1.png",
+        "link": "https://drive.google.com/u/0/uc?id=1POOUES9B6HlxuvB49RLVEKcIkqW7cSP9",
+        "release_date": ""
+      },
+      "epi3": {
+        "episodio": "01",
+        "nome": "Naruto Clássico",
+        "img_card": "https://i.ibb.co/NmMjtQP/naruto-ep1.png",
+        "link": "https://drive.google.com/u/0/uc?id=1POOUES9B6HlxuvB49RLVEKcIkqW7cSP9",
+        "release_date": ""
+      }
+    }
+  }

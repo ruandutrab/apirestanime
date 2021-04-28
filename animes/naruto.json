@@ -1,16 +1,9 @@
 [
   {
-    "episodio": "naruto01",
-    "nome": "Naruto Clássico – Episódio 01",
-    "info": "Naruto Uzumaki chegando!",
-    "link": "https://drive.google.com/u/2/uc?id=1brDkmThv47kNP1JYdvN_77q0qPzaC38n",
-    "release_date": "1 de março de 2021 00:00:00 UTC-3"
-  },
-  {
-    "episodio": "naruto02",
-    "nome": "Naruto Clássico – Episódio 02",
-    "info": "Meu nome é Konohamaru!",
-    "link": "https://drive.google.com/u/2/uc?id=15OeNjmd_qYOSHjkVHgUCAii3Rp_d5TF6",
+    "episodio": "naruto04",
+    "nome": "Naruto Clássico – Episódio 04",
+    "info": "Aprovado ou reprovado? Um teste de sobrevivência",
+    "link": "https://ns545982.ip-66-70-177.net/N/naruto-classico-legendado/04.mp4",
     "release_date": "1 de março de 2021 00:00:00 UTC-3"
   },
   {
@@ -21,10 +14,17 @@
     "release_date": "1 de março de 2021 00:00:00 UTC-3"
   },
   {
-    "episodio": "naruto04",
-    "nome": "Naruto Clássico – Episódio 04",
-    "info": "Aprovado ou reprovado? Um teste de sobrevivência",
-    "link": "https://ns545982.ip-66-70-177.net/N/naruto-classico-legendado/04.mp4",
+    "episodio": "naruto02",
+    "nome": "Naruto Clássico – Episódio 02",
+    "info": "Meu nome é Konohamaru!",
+    "link": "https://drive.google.com/u/2/uc?id=15OeNjmd_qYOSHjkVHgUCAii3Rp_d5TF6",
+    "release_date": "1 de março de 2021 00:00:00 UTC-3"
+  },
+  {
+    "episodio": "naruto01",
+    "nome": "Naruto Clássico – Episódio 01",
+    "info": "Naruto Uzumaki chegando!",
+    "link": "https://drive.google.com/u/2/uc?id=1brDkmThv47kNP1JYdvN_77q0qPzaC38n",
     "release_date": "1 de março de 2021 00:00:00 UTC-3"
   }
 ]

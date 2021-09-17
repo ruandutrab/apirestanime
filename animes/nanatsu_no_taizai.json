@@ -1,9 +1,79 @@
 [
   {
+    "episodio": "nanatsu24",
+    "nome": "Nanatsu no Taizai - Ep24",
+    "info": "Fundo no Shinpan",
+    "link": "https://firebasestorage.googleapis.com/v0/b/anime-82625.appspot.com/o/Nanatsu%2FNanatsu%20no%20Taizai%20Fundo%20no%20Shinpan%20Episodio%2024.mp4?alt=media&token=4626293e-fd91-42d8-a012-918fe09f6a28",
+    "release_date": "28 de junho de 2020 00:00:00 UTC-3"
+  },
+  {
+    "episodio": "nanatsu23",
+    "nome": "Nanatsu no Taizai - Ep23",
+    "info": "Fundo no Shinpan",
+    "link": "https://firebasestorage.googleapis.com/v0/b/anime-82625.appspot.com/o/Nanatsu%2FNanatsu%20no%20Taizai%20Fundo%20no%20Shinpan%20Episodio%2023.mp4?alt=media&token=3e89b168-a8f5-4b7e-b296-bf155eb8b72c",
+    "release_date": "28 de junho de 2020 00:00:00 UTC-3"
+  },
+  {
+    "episodio": "nanatsu22",
+    "nome": "Nanatsu no Taizai - Ep22",
+    "info": "Fundo no Shinpan",
+    "link": "https://firebasestorage.googleapis.com/v0/b/anime-82625.appspot.com/o/Nanatsu%2FNanatsu%20no%20Taizai%20Fundo%20no%20Shinpan%20Episodio%2022.mp4?alt=media&token=3bf07458-0944-4cea-924e-c520e833ecef",
+    "release_date": "28 de junho de 2020 00:00:00 UTC-3"
+  },
+  {
+    "episodio": "nanatsu21",
+    "nome": "Nanatsu no Taizai - Ep21",
+    "info": "Fundo no Shinpan",
+    "link": "https://firebasestorage.googleapis.com/v0/b/anime-82625.appspot.com/o/Nanatsu%2FNanatsu%20no%20Taizai%20Fundo%20no%20Shinpan%20Episodio%2021.mp4?alt=media&token=59416483-084b-4861-8a59-da1a2b8f6fa8",
+    "release_date": "28 de junho de 2020 00:00:00 UTC-3"
+  },
+  {
+    "episodio": "nanatsu20",
+    "nome": "Nanatsu no Taizai - Ep20",
+    "info": "Fundo no Shinpan",
+    "link": "https://firebasestorage.googleapis.com/v0/b/anime-82625.appspot.com/o/Nanatsu%2FNanatsu%20no%20Taizai%20Fundo%20no%20Shinpan%20Episodio%2020.mp4?alt=media&token=5fdcdad1-c468-4dd0-814e-5b4932199772",
+    "release_date": "28 de junho de 2020 00:00:00 UTC-3"
+  },
+  {
+    "episodio": "nanatsu19",
+    "nome": "Nanatsu no Taizai - Ep19",
+    "info": "Fundo no Shinpan",
+    "link": "https://firebasestorage.googleapis.com/v0/b/anime-82625.appspot.com/o/Nanatsu%2FNanatsu%20no%20Taizai%20Fundo%20no%20Shinpan%20Episodio%2019.mp4?alt=media&token=301d2041-1841-4018-8135-785b30e477b1",
+    "release_date": "28 de junho de 2020 00:00:00 UTC-3"
+  },
+  {
+    "episodio": "nanatsu18",
+    "nome": "Nanatsu no Taizai - Ep18",
+    "info": "Fundo no Shinpan",
+    "link": "https://firebasestorage.googleapis.com/v0/b/anime-82625.appspot.com/o/Nanatsu%2FNanatsu%20no%20Taizai%20Fundo%20no%20Shinpan%20Episodio%2018.mp4?alt=media&token=d48de636-64b5-431e-bd2c-a7f71ce83fd4",
+    "release_date": "28 de junho de 2020 00:00:00 UTC-3"
+  },
+  {
+    "episodio": "nanatsu17",
+    "nome": "Nanatsu no Taizai - Ep17",
+    "info": "Fundo no Shinpan",
+    "link": "https://firebasestorage.googleapis.com/v0/b/anime-82625.appspot.com/o/Nanatsu%2FNanatsu%20no%20Taizai%20Fundo%20no%20Shinpan%20Episodio%2017.mp4?alt=media&token=f105a6a0-61d8-4b77-bcb5-d0c9582fd7e7",
+    "release_date": "28 de junho de 2020 00:00:00 UTC-3"
+  },
+  {
+    "episodio": "nanatsu16",
+    "nome": "Nanatsu no Taizai - Ep16",
+    "info": "Fundo no Shinpan",
+    "link": "https://firebasestorage.googleapis.com/v0/b/anime-82625.appspot.com/o/Nanatsu%2FNanatsu%20no%20Taizai%20Fundo%20no%20Shinpan%20Episodio%2016.mp4?alt=media&token=5dc9aee4-d63f-45d9-b95c-eb9f2d7b4abc",
+    "release_date": "28 de junho de 2020 00:00:00 UTC-3"
+  },
+  {
+    "episodio": "nanatsu15",
+    "nome": "Nanatsu no Taizai - Ep15",
+    "info": "Fundo no Shinpan",
+    "link": "https://firebasestorage.googleapis.com/v0/b/anime-82625.appspot.com/o/Nanatsu%2FNanatsu%20no%20Taizai%20Fundo%20no%20Shinpan%20Episodio%2015.mp4?alt=media&token=7bb6c832-dbfe-4191-a3d4-b6fd4691a0d7",
+    "release_date": "28 de junho de 2020 00:00:00 UTC-3"
+  },
+  {
     "episodio": "nanatsu14",
     "nome": "Nanatsu no Taizai - Ep14",
     "info": "Fundo no Shinpan",
-    "link": "https://firebasestorage.googleapis.com/v0/b/anime-82625.appspot.com/o/Nanatsu%2FNanatsu%20no%20Taizai%20Fundo%20no%20Shinpan%20Episodio%2014.mp4?alt=media&token=95180e8a-51fd-44e7-90fe-efd56a4624e1",
+    "link": "https://firebasestorage.googleapis.com/v0/b/anime-82625.appspot.com/o/Nanatsu%2FNanatsu%20no%20Taizai%20Fundo%20no%20Shinpan%20Episodio%2014.mp4?alt=media&token=a6819fb0-17bd-4cd0-9b73-43a6fb69f9b9",
     "release_date": "28 de junho de 2020 00:00:00 UTC-3"
   },
   {
